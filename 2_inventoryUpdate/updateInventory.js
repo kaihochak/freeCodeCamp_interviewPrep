@@ -8,11 +8,9 @@
  * 
  * My Takeaway
  * 
- *      Based on the second solution provided by freeCodeCamp, I partly wrote this solution. 
- * 
- *      Getting used to the way of javascript handling 2D array and loop. 
- *      Getting to know how to use array.sort()
- *      Geeting to know how to use array.indexOf()
+ *      Based on the second solution provided by freeCodeCamp, I partly wrote this solution.
+ * This helped me to get used to the way of javascript handling 2D array and loop. I also 
+ * got to know how to use array.sort() and array.indexOf()
  * 
 */
 
